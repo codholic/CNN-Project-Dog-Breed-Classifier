@@ -6,6 +6,8 @@ how to build a pipeline to process real-world, user-supplied images. Given an im
 
 Along with exploring state-of-the-art CNN models for classification, making important design decisions about the user experience for app. 
 
+It took me about 25-30days to finish and I continuously worked on it around the clock!!So All praises to Allah to help me finishing this..Alhamdulillah.
+
 References that helped me to complete the code or I can say honor code:
 https://github.com/ervaibhavkumar/Udacity-Deep-Learning-Nanodegree/blob/master/Project-2/Dog%20Breed%20Predictor/dog_app.ipynb
 
