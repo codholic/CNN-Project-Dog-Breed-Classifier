@@ -22,4 +22,4 @@ https://gitlab.com/darshaniyer/dog-breed-classifier/-/blob/master/Dog_breed_clas
 https://www.kaggle.com/subhagatoadak/dog-breed-classifier-udacity
 
 Thanks to AbdalMalek and Diana B to help me on this and also thanks a lot to the mentors for answering my questions in Knowledge section.
-Also  those who helped from stackOverflow and @ptr_blk from torch_discussion_forum
+Also  those who replied to my questions, from stackOverflow and @ptr_blk from torch_discussion_forum
