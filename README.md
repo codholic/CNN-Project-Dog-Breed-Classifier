@@ -6,4 +6,7 @@ how to build a pipeline to process real-world, user-supplied images. Given an im
 
 Along with exploring state-of-the-art CNN models for classification, making important design decisions about the user experience for app. 
 
-
+References that helped me to complete the code or I can say honor code:
+https://gitlab.com/darshaniyer/dog-breed-classifier/-/blob/master/Dog_breed_classification_pipeline.ipynb
+https://www.kaggle.com/subhagatoadak/dog-breed-classifier-udacity
+Thanks to AbdalMalek and Diana B to help me on this and also thanks a lot to the mentors for answering my questions in Knowledge section.
