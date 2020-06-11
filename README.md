@@ -7,6 +7,17 @@ how to build a pipeline to process real-world, user-supplied images. Given an im
 Along with exploring state-of-the-art CNN models for classification, making important design decisions about the user experience for app. 
 
 References that helped me to complete the code or I can say honor code:
+https://github.com/ervaibhavkumar/Udacity-Deep-Learning-Nanodegree/blob/master/Project-2/Dog%20Breed%20Predictor/dog_app.ipynb
+
+https://alyxion.github.io/Udacity_DeepLearningFoundationsNd/3_3_Project_2_Dog_Breed_Classifier/dog_app.html
+
+https://www.google.com/search?q=udacity+deep+learning+nanodegree+projects+solutions&oq=udacity+deep+learning+nanodegree+projects+solutions&aqs=chrome..69i57.47159j0j8&sourceid=chrome&ie=UTF-8
+
+https://github.com/pdudero/udacity-dlnd-projects/blob/master/P2_Dog_Classification/dog_app.ipynb
+
 https://gitlab.com/darshaniyer/dog-breed-classifier/-/blob/master/Dog_breed_classification_pipeline.ipynb
+
 https://www.kaggle.com/subhagatoadak/dog-breed-classifier-udacity
+
 Thanks to AbdalMalek and Diana B to help me on this and also thanks a lot to the mentors for answering my questions in Knowledge section.
+Also  those who helped from stackOverflow and @ptr_blk from torch_discussion_forum
